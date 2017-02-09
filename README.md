@@ -8,32 +8,28 @@
  **什么是Living-Robot？**  
 想象一下当你养了一只兔子、或者一只蜥蜴作为宠物时，它们从来不会和你卖萌扮可爱，根本不会回答你任何或机智或愚蠢透顶的问题；但是我们还是养了这样的宠物；为什么？因为它是“活着的”的。 rtp要人工创造这种Living的感觉，我们称之为“Living-Robot”。
 
-------------------------------------------------Technical & TODO-----------------------------------------------------------------
+-----------------------------------------------技术和TODO-----------------------------------------------------------------
 软件: <br/>
 1. Python / C <br/>
 2. ROS & linux(debian/raspbian/ubuntu) <br/>
-3. use speech recognization and aiml to dialog to make it more fun. <br/>
+3. 语音识别和对话（aiml） <br/>
 2. ai "heart" to act as a real interest "living" thing. <br/>
-3. camera and face detection/recognization and sense of space where he is. <br/>
-4. add more sensors to make it complementary to our human body. <br/>
-5. dnn to improve the user experience. <br/>
+3. 有摄像头和人脸检测/人脸识别，以及运动检测 <br/>
+4. 增加更多传感器使之补充我们人体的不足（我们人体对很多信息不敏感，磁场、粉尘、电磁波、紫外线红外线等，好遗憾:-)）<br/>
+5. 使用dnn一系列奇技淫巧以提高用户体验. <br/>
 
 硬件:  <br/>
 1. Raspberry Pi 3B(pi 2B, or tk1 is also fine) + some sensor modules.  <br/>
-2. use Robi or other humanoid robot like "Ubtech优必选" Alpha2 or Abilix “Everest”<br/>
-
-This project is original for improving software and hardware to tranform/improve the lovely Robi robot. <br/>
+2. 使用Robi或者其它人形机器人结构，比如"Ubtech优必选“的Alpha2或者Abilix的“Everest”等。<br/>
 2017.2.7 <br/>
--------------------------------------------------Background----------------------------------------------------------------------<br/>
-The design of Robi is pretty good. We love it. But the software is not strong. This makes Robi not interest enough.   <br/>
-The well looked robots in the world are only Nao and Robi. Nao is just "designed" but you cannot say it's kind of "Art", but to Robi we can feel "Art". 
-How about the "Pepper"? Jesus, it's absolutely ugly and scared me with a big touch pad. It's even worse than the bandage on the back side of iphone 6:-)   <br/>
-<br/>
-Robi是啥: http://www.robo-garage.com/en/prd/p_26/index.html  <br/> 
-designed by the 'strange' professor&CEO(ROBOGARAGE.Co.,Ltd) Tomotaka Takahashi  <br/> 
+------------------------------------------------背景----------------------------------------------------------------------<br/>
+这个项目起源于想改进可爱的Robi机器人的软件的想法。 <br/>
+Robi的设计相当不错，我们非常喜欢它。 但软件功能看起来不强，这使得罗比不够好玩。 <br/>
+好看的机器人在目前世界上只有Nao和Robi。Nao只是“设计”过，但你不能说它是一种“艺术”，但对Robi我们可以感觉到“艺术”。“Pepper”怎么样？ 我靠，它是绝对丑死了，用一个大触摸板把我们吓坏了：它甚至比在iPhone 6背面的绷带更糟:-)   <br/>
+Robi是啥: http://www.robo-garage.com/en/prd/p_26/index.html，由怪教授&CEO(ROBOGARAGE.Co.,Ltd) Tomotaka Takahashi设计  <br/> 
 硬件和调试进度: http://blog.csdn.net/zister <br/>
 2015.12.12 <br/>
 ---------------------------------------------------Contact---------------------------------------------------------------------<br/>
-联系: 729480514@qq.com (w-e-c-h-a-t: ckingcfx. 闲聊勿扰) <br/>
+联系: 729480514@qq.com (w-e-c-h-a-t: ckingcfx. 不闲聊) <br/>
 
 
