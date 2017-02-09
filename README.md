@@ -19,14 +19,15 @@
 5. 使用dnn一系列奇技淫巧以提高用户体验. <br/>
 
 硬件:  <br/>
-1. Raspberry Pi 3B(pi 2B, or tk1 is also fine) + some sensor modules.  <br/>
+1. Raspberry Pi 3B(pi 2B, or tk1 is also fine) + 一些传感器模块.  <br/>
 2. 使用Robi或者其它人形机器人结构，比如"Ubtech优必选“的Alpha2或者Abilix的“Everest”等。<br/>
 2017.2.7 <br/>
 ------------------------------------------------背景----------------------------------------------------------------------<br/>
 这个项目起源于想改进可爱的Robi机器人的软件的想法。 <br/>
 Robi的设计相当不错，我们非常喜欢它。 但软件功能看起来不强，这使得罗比不够好玩。 <br/>
 好看的机器人在目前世界上只有Nao和Robi。Nao只是“设计”过，但你不能说它是一种“艺术”，但对Robi我们可以感觉到“艺术”。“Pepper”怎么样？ 我靠，它是绝对丑死了，用一个大触摸板把我们吓坏了：它甚至比在iPhone 6背面的绷带更糟:-)   <br/>
-Robi是啥: http://www.robo-garage.com/en/prd/p_26/index.html，由怪教授&CEO(ROBOGARAGE.Co.,Ltd) Tomotaka Takahashi设计  <br/> 
+Robi是啥: http://www.robo-garage.com/en/prd/p_26/index.html <br/>
+由怪教授&CEO(ROBOGARAGE.Co.,Ltd) Tomotaka Takahashi设计  <br/> 
 硬件和调试进度: http://blog.csdn.net/zister <br/>
 2015.12.12 <br/>
 ---------------------------------------------------Contact---------------------------------------------------------------------<br/>
